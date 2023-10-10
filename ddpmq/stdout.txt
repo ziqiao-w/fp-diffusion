@@ -1,0 +1,6 @@
+WARNING - utils.py - 2023-08-07 23:51:51,349 - No checkpoint found at ddpmq/checkpoints-meta/checkpoint.pth. Returned the same state as input
+INFO - dataset_info.py - 2023-08-07 23:51:51,371 - Load dataset info from /home/ziqiao/tensorflow_datasets/cifar10/3.0.2
+INFO - dataset_builder.py - 2023-08-07 23:51:51,373 - Reusing dataset cifar10 (/home/ziqiao/tensorflow_datasets/cifar10/3.0.2)
+INFO - dataset_builder.py - 2023-08-07 23:51:51,373 - Constructing tf.data.Dataset for split train, from /home/ziqiao/tensorflow_datasets/cifar10/3.0.2
+INFO - dataset_builder.py - 2023-08-07 23:51:51,662 - Reusing dataset cifar10 (/home/ziqiao/tensorflow_datasets/cifar10/3.0.2)
+INFO - dataset_builder.py - 2023-08-07 23:51:51,662 - Constructing tf.data.Dataset for split test, from /home/ziqiao/tensorflow_datasets/cifar10/3.0.2
